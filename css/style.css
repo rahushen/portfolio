@@ -1,0 +1,44 @@
+
+body {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 400;
+}
+
+
+.title-super {
+	font-size: 60px;
+	font-weight: 100;
+}
+
+.title-logo {
+	margin-top: 40px;
+	width: 5em;
+	height: 5em;
+}
+
+.hero-img {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.no-margin {
+	margin: 0px;
+}
+
+.thick-line {
+	border-top: 4px solid #7d97ad;
+}
+
+.text-muted {
+	color: #7d97ad;
+}
+
+.text-large {
+	font-size:35px;
+}
+
+.featured-work {
+	padding-left: 15px;
+	padding-bottom: 5px;
+}
